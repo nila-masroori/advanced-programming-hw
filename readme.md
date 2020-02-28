@@ -103,4 +103,3 @@ You must not alter the main file at all. Just write all your codes in the **aphw
 
 <img src=staff/MEME2.jpg width=500 />
 
-#my first project-ap
